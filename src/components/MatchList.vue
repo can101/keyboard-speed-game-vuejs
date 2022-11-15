@@ -4,8 +4,8 @@
       <thead>
       <tr>
         <th class="table-header">#</th>
-        <th class="table-header">Deger</th>
-        <th class="table-header">Tahmin</th>
+        <th class="table-header">İstenilen</th>
+        <th class="table-header">Girilen</th>
       </tr>
       </thead>
       <tbody>
